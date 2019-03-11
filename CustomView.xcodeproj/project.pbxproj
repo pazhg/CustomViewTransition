@@ -12,6 +12,7 @@
 		8876710622363FE300C5308A /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 8876710422363FE300C5308A /* Main.storyboard */; };
 		8876710822363FE400C5308A /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 8876710722363FE400C5308A /* Assets.xcassets */; };
 		8876710B22363FE400C5308A /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 8876710922363FE400C5308A /* LaunchScreen.storyboard */; };
+		887671132236422C00C5308A /* MenuViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 887671122236422B00C5308A /* MenuViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		8876710722363FE400C5308A /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		8876710A22363FE400C5308A /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		8876710C22363FE400C5308A /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		887671122236422B00C5308A /* MenuViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MenuViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,6 +59,7 @@
 				8876710022363FE200C5308A /* AppDelegate.swift */,
 				8876710222363FE200C5308A /* ViewController.swift */,
 				8876710422363FE300C5308A /* Main.storyboard */,
+				887671122236422B00C5308A /* MenuViewController.swift */,
 				8876710722363FE400C5308A /* Assets.xcassets */,
 				8876710922363FE400C5308A /* LaunchScreen.storyboard */,
 				8876710C22363FE400C5308A /* Info.plist */,
@@ -136,6 +139,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				8876710322363FE200C5308A /* ViewController.swift in Sources */,
+				887671132236422C00C5308A /* MenuViewController.swift in Sources */,
 				8876710122363FE200C5308A /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
